@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+input{
+    background: aqua;
+    width: 500px;
+    height: 500px;
+}
+=======
 h1{
     color: aqua;
 }
@@ -6,3 +13,4 @@ h1{
     background: red;
     height: 100px;
 }t
+>>>>>>> f3fdd2ce739021ce29fd3ecdb2990d615a740676
