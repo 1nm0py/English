@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 input{
     background: aqua;
     width: 500px;
     height: 500px;
 }
+=======
+h1{
+    color: aqua;
+}
+.fit{
+    width: 400px;
+    background: red;
+    height: 100px;
+}t
+>>>>>>> f3fdd2ce739021ce29fd3ecdb2990d615a740676
